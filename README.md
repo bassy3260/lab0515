@@ -15,7 +15,7 @@
   - README.md
 
 # 예제
-C
+**C 언어** *코드
 ```
 #include<stdio.h>
 int main(void)
